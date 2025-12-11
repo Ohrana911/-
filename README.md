@@ -59,7 +59,7 @@
 ### Ноутбук на диске
 - https://colab.research.google.com/drive/1_c_wQ0Fgwh3ZEZtHjxdRhusqozMFqcxu?usp=sharing
 ### Ноутбук на в репозитории
-- Проектная_практика_МИФИ_1_Урамаев.ipynb
+- project_practice_uramaev.ipynb
 
 
 ### Использование
