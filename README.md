@@ -89,6 +89,7 @@ Accuracy: 0.85
 | **Accuracy** | - | - | **0.85** |
 
 ### Матрица ошибок
+<img width="718" height="747" alt="image" src="https://github.com/user-attachments/assets/d6198406-99e0-40f6-81cc-2a0eccf432e3" />
 
 | | Предсказано: Доброкачественная | Предсказано: Опасная |
 |------------------------|--------------------------------|----------------------|
@@ -104,4 +105,7 @@ Accuracy: 0.85
 
 Итог:
 Модель устойчива и хорошо различает классы.
+<img width="582" height="763" alt="image" src="https://github.com/user-attachments/assets/d94d7ee2-cc44-43a1-8b77-c8b15d332398" />
+<img width="1278" height="850" alt="image" src="https://github.com/user-attachments/assets/c47070d1-0ec4-46bc-b653-1c265b27e1ca" />
+<img width="1275" height="854" alt="image" src="https://github.com/user-attachments/assets/0e39f1d0-d45f-488a-904f-8e0dadea434b" />
 
