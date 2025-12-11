@@ -56,8 +56,10 @@
 - [Vision Transformer (Hugging Face)](https://huggingface.co/google/vit-base-patch16-224-in21k)
 ### Датасет
 - [HAM10000 на Kaggle](https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000)
-### Ноутбук
+### Ноутбук на диске
 - https://colab.research.google.com/drive/1_c_wQ0Fgwh3ZEZtHjxdRhusqozMFqcxu?usp=sharing
+### Ноутбук на в репозитории
+- Проектная_практика_МИФИ_1_Урамаев.ipynb
 
 
 ### Использование
