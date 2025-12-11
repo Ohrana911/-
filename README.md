@@ -54,6 +54,11 @@
 - CUDA-compatible GPU
 - 8 ГБ ОЗУ
 
+### Модель
+- [Vision Transformer (Hugging Face)](https://huggingface.co/google/vit-base-patch16-224-in21k)
+### Датасет
+- [HAM10000 на Kaggle](https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000)
+
 ### Установка из репозитория
 
 ```bash
