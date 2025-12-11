@@ -57,8 +57,8 @@
 ### Установка из репозитория
 
 ```bash
-git clone https://github.com/Ohrana911/skin-cancer-monitoring.git
-cd skin-cancer-monitoring
+git clone https://github.com/Ohrana911/First-Project-Practice-MEPHI-Uramaev.git
+cd First-Project-Practice-MEPHI-Uramaev
 ```
 ## Реузультаты
 
